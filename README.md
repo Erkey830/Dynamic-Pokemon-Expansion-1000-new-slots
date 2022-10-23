@@ -17,7 +17,7 @@ A dynamic data insertion tool for expanding Pokemon data in FireRed.
 **NOTE** It is highly recommended to apply the [Complete Fire Red Upgrade](https://github.com/Skeli789/Complete-Fire-Red-Upgrade) following the insertion of this hack. Otherwise, make sure to comment out the  line ``#define EXPAND_LEARNSETS`` in the defines file or your game will crash (unless you have expanded movesets manually).  Additionally, if you're **not** using the Complete Fire Red Upgrade, in [bytereplacement](https://github.com/Skeli789/Dynamic-Pokemon-Expansion/blob/master/bytereplacement), find the changes for the seen  and caught flag ram, and change it to some free  save space. Make sure to apply a saveblock hack first and a TM/Tutor expansion first, though.
 
 ## HOW TO USE:
-```
+
 1º Put your front, back and icon sprites on graphics folder
 2º Rename the graphics like: gFrontSprite1234S1, gFrontSprite1235S2... following the order (all is same for all graphics)
 3º You can edit stats on: src/base_stats.c or later with your rescue on G3T
