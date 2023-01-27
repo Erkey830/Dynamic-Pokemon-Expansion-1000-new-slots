@@ -1,3 +1,7 @@
+CREDITS OF SPRITES:
+All sprites are extracted from here: https://whackahack.com/foro/threads/9-gen-sprites.67492/
+
+
 # Dynamic-Pokemon-Expansion [FR]
 
 ## What is this:
